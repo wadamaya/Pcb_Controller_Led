@@ -1,0 +1,881 @@
+## Footprint report - date 2026-11-04T18:02:24
+## Printed by KiCad version 10.0.8-10.0.8~ubuntu24.04.1
+## Unit = mm, Angle = deg.
+
+$BeginDESCRIPTION
+
+$BOARD
+upper_left_corner 70.425000 28.005000
+$EndBOARD
+
+$MODULE C1
+reference C1
+value 470  µF
+footprint Capacitor_THT:CP_Radial_D8.0mm_P3.50mm
+attribut none
+position 115.500000 56.000000  orientation -90.00
+layer front
+$PAD "1"
+Shape Rectándulo redondeado Layer both
+position  0.000000  0.000000 size  1.600000  1.600000 orientation 270.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Círculo Layer both
+position  3.500000  0.000000 size  1.600000  1.600000 orientation 270.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE C1
+
+$MODULE C2
+reference C2
+value 100 nF
+footprint Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm
+attribut none
+position 109.500000 58.500000  orientation 90.00
+layer front
+$PAD "1"
+Shape Círculo Layer both
+position  0.000000  0.000000 size  1.600000  1.600000 orientation 90.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Círculo Layer both
+position  2.500000  0.000000 size  1.600000  1.600000 orientation 90.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE C2
+
+$MODULE C3
+reference C3
+value 100 nF
+footprint Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm
+attribut none
+position 129.500000 81.000000  orientation 0.00
+layer front
+$PAD "1"
+Shape Círculo Layer both
+position  0.000000  0.000000 size  1.600000  1.600000 orientation 0.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Círculo Layer both
+position  2.500000  0.000000 size  1.600000  1.600000 orientation 0.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE C3
+
+$MODULE C4
+reference C4
+value 100 nF
+footprint Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm
+attribut none
+position 106.500000 113.000000  orientation 90.00
+layer front
+$PAD "1"
+Shape Círculo Layer both
+position  0.000000  0.000000 size  1.600000  1.600000 orientation 90.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Círculo Layer both
+position  2.500000  0.000000 size  1.600000  1.600000 orientation 90.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE C4
+
+$MODULE C5
+reference C5
+value 10 UF
+footprint Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm
+attribut none
+position 94.500000 115.000000  orientation 90.00
+layer front
+$PAD "1"
+Shape Círculo Layer both
+position  0.000000  0.000000 size  1.600000  1.600000 orientation 90.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Círculo Layer both
+position  2.500000  0.000000 size  1.600000  1.600000 orientation 90.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE C5
+
+$MODULE C6
+reference C6
+value 0.015 uF
+footprint Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm
+attribut none
+position 95.500000 123.500000  orientation -90.00
+layer front
+$PAD "1"
+Shape Círculo Layer both
+position  0.000000  0.000000 size  1.600000  1.600000 orientation 270.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Círculo Layer both
+position  2.500000  0.000000 size  1.600000  1.600000 orientation 270.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE C6
+
+$MODULE C7
+reference C7
+value 100  µF
+footprint Capacitor_THT:CP_Radial_D8.0mm_P3.50mm
+attribut none
+position 95.000000 102.500000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rectándulo redondeado Layer both
+position  0.000000  0.000000 size  1.600000  1.600000 orientation 0.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Círculo Layer both
+position  3.500000  0.000000 size  1.600000  1.600000 orientation 0.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE C7
+
+$MODULE C8
+reference C8
+value 68 pF
+footprint Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm
+attribut none
+position 109.250000 118.000000  orientation 0.00
+layer front
+$PAD "1"
+Shape Círculo Layer both
+position  0.000000  0.000000 size  1.600000  1.600000 orientation 0.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Círculo Layer both
+position  2.500000  0.000000 size  1.600000  1.600000 orientation 0.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE C8
+
+$MODULE C9
+reference C9
+value 1800 pF
+footprint Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm
+attribut none
+position 111.500000 125.000000  orientation 0.00
+layer front
+$PAD "1"
+Shape Círculo Layer both
+position  0.000000  0.000000 size  1.600000  1.600000 orientation 0.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Círculo Layer both
+position  2.500000  0.000000 size  1.600000  1.600000 orientation 0.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE C9
+
+$MODULE C10
+reference C10
+value 47 µF
+footprint Capacitor_THT:CP_Radial_D8.0mm_P3.50mm
+attribut none
+position 113.000000 106.000000  orientation 180.00
+layer front
+$PAD "1"
+Shape Rectándulo redondeado Layer both
+position  0.000000  0.000000 size  1.600000  1.600000 orientation 180.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Círculo Layer both
+position  3.500000  0.000000 size  1.600000  1.600000 orientation 180.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE C10
+
+$MODULE D1
+reference D1
+value SS24
+footprint Diode_SMD:D_SMA
+attribut smd
+position 101.000000 109.500000  orientation 180.00
+layer front
+$PAD "1"
+Shape Rectándulo redondeado Layer front
+position -2.000000  0.000000 size  2.500000  1.800000 orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rectándulo redondeado Layer front
+position  2.000000  0.000000 size  2.500000  1.800000 orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE D1
+
+$MODULE D3
+reference D3
+value 10V
+footprint Diode_SMD:D_SMA
+attribut smd
+position 90.500000 109.500000  orientation 90.00
+layer front
+$PAD "1"
+Shape Rectándulo redondeado Layer front
+position -2.000000  0.000000 size  2.500000  1.800000 orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rectándulo redondeado Layer front
+position  2.000000  0.000000 size  2.500000  1.800000 orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE D3
+
+$MODULE H1
+reference H1
+value MountingHole
+footprint MountingHole:MountingHole_3.2mm_M3
+attribut virtual
+position 114.500000 35.000000  orientation 0.00
+layer front
+$PAD ""
+Shape Círculo Layer both
+position  0.000000  0.000000 size  3.200000  3.200000 orientation 0.00
+drill  3.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE H1
+
+$MODULE H2
+reference H2
+value MountingHole
+footprint MountingHole:MountingHole_3.2mm_M3
+attribut virtual
+position 135.500000 35.000000  orientation 0.00
+layer front
+$PAD ""
+Shape Círculo Layer both
+position  0.000000  0.000000 size  3.200000  3.200000 orientation 0.00
+drill  3.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE H2
+
+$MODULE H3
+reference H3
+value MountingHole
+footprint MountingHole:MountingHole_3.2mm_M3
+attribut virtual
+position 80.000000 142.500000  orientation 0.00
+layer front
+$PAD ""
+Shape Círculo Layer both
+position  0.000000  0.000000 size  3.200000  3.200000 orientation 0.00
+drill  3.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE H3
+
+$MODULE H4
+reference H4
+value MountingHole
+footprint MountingHole:MountingHole_3.2mm_M3
+attribut virtual
+position 136.500000 143.000000  orientation 0.00
+layer front
+$PAD ""
+Shape Círculo Layer both
+position  0.000000  0.000000 size  3.200000  3.200000 orientation 0.00
+drill  3.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE H4
+
+$MODULE J1
+reference J1
+value Conn_01x01_Pin
+footprint Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical
+attribut none
+position 79.500000 95.000000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000 size  1.700000  1.700000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE J1
+
+$MODULE J3
+reference J3
+value Conn_01x02_Socket
+footprint TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal
+attribut none
+position 82.500000 115.000000  orientation -90.00
+layer front
+$PAD "1"
+Shape Rectándulo redondeado Layer both
+position  0.000000  0.000000 size  2.600000  2.600000 orientation 270.00
+drill  1.300000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Círculo Layer both
+position  5.000000  0.000000 size  2.600000  2.600000 orientation 270.00
+drill  1.300000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE J3
+
+$MODULE L1
+reference L1
+value 22 UH
+footprint Inductor_SMD:L_Bourns_SRP5030T
+attribut smd
+position 104.000000 104.000000  orientation 90.00
+layer front
+$PAD "1"
+Shape Rectándulo redondeado Layer front
+position -2.250000  0.000000 size  2.000000  1.800000 orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rectándulo redondeado Layer front
+position  2.250000  0.000000 size  2.000000  1.800000 orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE L1
+
+$MODULE Q2
+reference Q2
+value AO3401A
+footprint Package_TO_SOT_SMD:SOT-23
+attribut smd
+position 83.000000 108.062500  orientation -90.00
+layer front
+$PAD "1"
+Shape Rectándulo redondeado Layer front
+position -0.937500 -0.950000 size  1.475000  0.600000 orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rectándulo redondeado Layer front
+position -0.937500  0.950000 size  1.475000  0.600000 orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rectándulo redondeado Layer front
+position  0.937500  0.000000 size  1.475000  0.600000 orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE Q2
+
+$MODULE R1
+reference R1
+value 68 Ω
+footprint Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+attribut none
+position 102.310000 95.000000  orientation 180.00
+layer front
+$PAD "1"
+Shape Círculo Layer both
+position  0.000000  0.000000 size  1.600000  1.600000 orientation 180.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Círculo Layer both
+position  7.620000  0.000000 size  1.600000  1.600000 orientation 180.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE R1
+
+$MODULE R2
+reference R2
+value 332 KΩ
+footprint Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+attribut none
+position 90.500000 115.190000  orientation -90.00
+layer front
+$PAD "1"
+Shape Círculo Layer both
+position  0.000000  0.000000 size  1.600000  1.600000 orientation 270.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Círculo Layer both
+position  7.620000  0.000000 size  1.600000  1.600000 orientation 270.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE R2
+
+$MODULE R3
+reference R3
+value 68.1 KΩ
+footprint Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+attribut none
+position 90.500000 126.190000  orientation -90.00
+layer front
+$PAD "1"
+Shape Círculo Layer both
+position  0.000000  0.000000 size  1.600000  1.600000 orientation 270.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Círculo Layer both
+position  7.620000  0.000000 size  1.600000  1.600000 orientation 270.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE R3
+
+$MODULE R4
+reference R4
+value 10 KΩ
+footprint Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+attribut none
+position 107.500000 135.810000  orientation 90.00
+layer front
+$PAD "1"
+Shape Círculo Layer both
+position  0.000000  0.000000 size  1.600000  1.600000 orientation 90.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Círculo Layer both
+position  7.620000  0.000000 size  1.600000  1.600000 orientation 90.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE R4
+
+$MODULE R5
+reference R5
+value 1.91 KΩ
+footprint Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+attribut none
+position 104.500000 122.000000  orientation -90.00
+layer front
+$PAD "1"
+Shape Círculo Layer both
+position  0.000000  0.000000 size  1.600000  1.600000 orientation 270.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Círculo Layer both
+position  7.620000  0.000000 size  1.600000  1.600000 orientation 270.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE R5
+
+$MODULE R6
+reference R6
+value 21 KΩ
+footprint Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+attribut none
+position 117.500000 125.120000  orientation 90.00
+layer front
+$PAD "1"
+Shape Círculo Layer both
+position  0.000000  0.000000 size  1.600000  1.600000 orientation 90.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Círculo Layer both
+position  7.620000  0.000000 size  1.600000  1.600000 orientation 90.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE R6
+
+$MODULE R7
+reference R7
+value 10 KΩ
+footprint Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+attribut none
+position 90.380000 104.500000  orientation 90.00
+layer front
+$PAD "1"
+Shape Círculo Layer both
+position  0.000000  0.000000 size  1.600000  1.600000 orientation 90.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Círculo Layer both
+position  7.620000  0.000000 size  1.600000  1.600000 orientation 90.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE R7
+
+$MODULE U1
+reference U1
+value LilyGO_T3_V1.6.1_Fiel
+footprint MisHuellas:LilyGO_T3_V1.6.1_Socket
+attribut none
+position 82.500000 86.480000  orientation 0.00
+layer front
+$PAD ""
+Shape Círculo Layer both
+position 23.340000  3.710000 size  2.200000  2.200000 orientation 0.00
+drill  2.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Círculo Layer both
+position  1.180000  3.710000 size  2.200000  2.200000 orientation 0.00
+drill  2.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000 size  1.700000  1.700000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Círculo Layer both
+position  0.000000 -2.540000 size  1.700000  1.700000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Círculo Layer both
+position  0.000000 -5.080000 size  1.700000  1.700000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Círculo Layer both
+position  0.000000 -7.620000 size  1.700000  1.700000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Círculo Layer both
+position  0.000000 -10.160000 size  1.700000  1.700000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Círculo Layer both
+position  0.000000 -12.700000 size  1.700000  1.700000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Círculo Layer both
+position  0.000000 -15.240000 size  1.700000  1.700000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Círculo Layer both
+position  0.000000 -17.780000 size  1.700000  1.700000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "9"
+Shape Círculo Layer both
+position  0.000000 -20.320000 size  1.700000  1.700000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "10"
+Shape Círculo Layer both
+position  0.000000 -22.860000 size  1.700000  1.700000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "11"
+Shape Círculo Layer both
+position  0.000000 -25.400000 size  1.700000  1.700000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "12"
+Shape Círculo Layer both
+position  0.000000 -27.940000 size  1.700000  1.700000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "13"
+Shape Círculo Layer both
+position  0.000000 -30.480000 size  1.700000  1.700000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "14"
+Shape Círculo Layer both
+position 22.860000  0.000000 size  1.700000  1.700000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "15"
+Shape Círculo Layer both
+position 22.860000 -2.540000 size  1.700000  1.700000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "16"
+Shape Círculo Layer both
+position 22.860000 -5.080000 size  1.700000  1.700000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "17"
+Shape Círculo Layer both
+position 22.860000 -7.620000 size  1.700000  1.700000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "18"
+Shape Círculo Layer both
+position 22.860000 -10.160000 size  1.700000  1.700000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "19"
+Shape Círculo Layer both
+position 22.860000 -12.700000 size  1.700000  1.700000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "20"
+Shape Círculo Layer both
+position 22.860000 -15.240000 size  1.700000  1.700000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "21"
+Shape Círculo Layer both
+position 22.860000 -17.780000 size  1.700000  1.700000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "22"
+Shape Círculo Layer both
+position 22.860000 -20.320000 size  1.700000  1.700000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "23"
+Shape Círculo Layer both
+position 22.860000 -22.860000 size  1.700000  1.700000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "24"
+Shape Círculo Layer both
+position 22.860000 -25.400000 size  1.700000  1.700000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "25"
+Shape Círculo Layer both
+position 22.860000 -27.940000 size  1.700000  1.700000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "26"
+Shape Círculo Layer both
+position 22.860000 -30.480000 size  1.700000  1.700000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE U1
+
+$MODULE U2
+reference U2
+value 74HCT125
+footprint Package_DIP:DIP-14_W7.62mm
+attribut none
+position 117.880000 80.000000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rectándulo redondeado Layer both
+position  0.000000  0.000000 size  1.600000  1.600000 orientation 0.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Círculo Layer both
+position  0.000000  2.540000 size  1.600000  1.600000 orientation 0.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Círculo Layer both
+position  0.000000  5.080000 size  1.600000  1.600000 orientation 0.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Círculo Layer both
+position  0.000000  7.620000 size  1.600000  1.600000 orientation 0.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Círculo Layer both
+position  0.000000 10.160000 size  1.600000  1.600000 orientation 0.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Círculo Layer both
+position  0.000000 12.700000 size  1.600000  1.600000 orientation 0.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Círculo Layer both
+position  0.000000 15.240000 size  1.600000  1.600000 orientation 0.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Círculo Layer both
+position  7.620000 15.240000 size  1.600000  1.600000 orientation 0.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "9"
+Shape Círculo Layer both
+position  7.620000 12.700000 size  1.600000  1.600000 orientation 0.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "10"
+Shape Círculo Layer both
+position  7.620000 10.160000 size  1.600000  1.600000 orientation 0.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "11"
+Shape Círculo Layer both
+position  7.620000  7.620000 size  1.600000  1.600000 orientation 0.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "12"
+Shape Círculo Layer both
+position  7.620000  5.080000 size  1.600000  1.600000 orientation 0.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "13"
+Shape Círculo Layer both
+position  7.620000  2.540000 size  1.600000  1.600000 orientation 0.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "14"
+Shape Círculo Layer both
+position  7.620000  0.000000 size  1.600000  1.600000 orientation 0.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE U2
+
+$MODULE U3
+reference U3
+value TPS54233
+footprint Package_SO:SOIC-8_3.9x4.9mm_P1.27mm
+attribut smd
+position 101.025000 115.905000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rectándulo redondeado Layer front
+position -2.475000 -1.905000 size  1.950000  0.600000 orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rectándulo redondeado Layer front
+position -2.475000 -0.635000 size  1.950000  0.600000 orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rectándulo redondeado Layer front
+position -2.475000  0.635000 size  1.950000  0.600000 orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rectándulo redondeado Layer front
+position -2.475000  1.905000 size  1.950000  0.600000 orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rectándulo redondeado Layer front
+position  2.475000  1.905000 size  1.950000  0.600000 orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rectándulo redondeado Layer front
+position  2.475000  0.635000 size  1.950000  0.600000 orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rectándulo redondeado Layer front
+position  2.475000 -0.635000 size  1.950000  0.600000 orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rectándulo redondeado Layer front
+position  2.475000 -1.905000 size  1.950000  0.600000 orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE U3
+
+$EndDESCRIPTION

@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "kid cad") (type "KiCad") (uri "/media/sf_wad/2026/kid cad.pretty") (options "") (descr ""))
+	(lib (name "MisHuellas") (type "KiCad") (uri "/media/sf_wad/2026/Proyecto1/MisHuellas.pretty") (options "") (descr ""))
+)

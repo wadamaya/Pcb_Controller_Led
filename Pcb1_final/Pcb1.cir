@@ -1,0 +1,29 @@
+.title KiCad schematic
+C1 +5V GND 470u
+C2 GND +5V 100n
+C4 Net-_D1-K_ Net-_U3-BOOT_ 100n
+R6 Net-_C9-Pad2_ GND 21k
+C9 Net-_U3-COMP_ Net-_C9-Pad2_ 1800p
+D1 __D1
+H1 __H1
+H3 __H3
+H4 __H4
+H2 __H2
+R7 Net-_D3-A_ GND 10k
+D3 __D3
+Q2 __Q2
+C3 +5V GND 100n
+J1 __J1
+R1 Net-_U2-1Y_ Net-_J1-Pin_1_ 68
+R3 Net-_U3-EN_ GND 68.1k
+C8 Net-_U3-COMP_ GND 68p
+J3 __J3
+C5 /+12V GND 10U
+R2 /+12V Net-_U3-EN_ 332k
+C6 Net-_U3-SS_ GND 0.015u
+C7 /+12V GND 100u
+R4 +5V Net-_U3-FB_ 10k
+L1 Net-_D1-K_ +5V 22U
+R5 Net-_U3-FB_ GND 1.91k
+C10 +5V GND 47u
+.end
